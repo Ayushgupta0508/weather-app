@@ -36,7 +36,21 @@ https://your-vercel-url.vercel.app
 
 ## Screenshot
 
-![Weather App](images/screenshot.png)
+### Nointernet Result
+
+![Home](images/nointernet-state.png)
+
+### Weather Result
+
+![Weather Result](images/weather-result.png)
+
+### Invalid City
+
+![Invalid City](images/invalid-city.png)
+
+## Live Demo
+
+[Live Demo](https://weather-4k5y0aaj4-ayushgupta0508s-projects.vercel.app)
 
 ## Author
 

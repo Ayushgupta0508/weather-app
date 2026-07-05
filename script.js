@@ -28,8 +28,8 @@ async function fetchWeather (city) {
     }
 
     displayCurrentWeather(data)   
-    
 
+    
   } catch(error){
     messageElement.textContent = "Network error. Please check your internet connection."
   } finally{
